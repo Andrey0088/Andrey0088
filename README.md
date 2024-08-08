@@ -7,7 +7,8 @@ My name is Andrey Luiggi. I am a programmer living in Brazil.
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Andrey0088&show_icons=true&count_private=true&theme=great-gatsby&hide=issues">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey0088&theme=great-gatsby">
+  
+
 </p>
 
 ## 🛠  Programming languages and tools
