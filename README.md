@@ -48,6 +48,7 @@ My name is Andrey Luiggi. I am a programmer living in Brazil.
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo" title="andrey.luiggi" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-luiggi-ab623326b/" alt="LinkedIn logo" title="andrey.luiggi" height="25" />&nbsp;
+<a href="https://linkedin.com/in/andrey-luiggi-ab623326b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrey-luiggi" height="30" width="40" /></a>
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
