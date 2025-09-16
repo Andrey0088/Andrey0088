@@ -46,7 +46,7 @@ My name is Andrey Luiggi. I am a programmer living in Brazil.
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />]https://www.instagram.com/andrey.luiggi/)&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />andrey.luiggi/)&nbsp;
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
