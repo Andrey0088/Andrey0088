@@ -17,6 +17,9 @@ My name is Andrey Luiggi. I am a programmer living in Brazil.
 
 [<img src="https://img.shields.io/badge/Java-282C34?&logo=openjdk&logoColor=orange" alt="Java logo" title="Java" height="25"/>][tech_tools_anchor]
 &nbsp;
+
+[<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25"/>][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?&logo=python&logoColor=green" alt="Python logo" title="Python" height="25"/>][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/C-282C34?&logo=c&logoColor=blue" alt="C logo" title="C" height="25"/>][tech_tools_anchor]
